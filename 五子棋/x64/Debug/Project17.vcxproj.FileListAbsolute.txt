@@ -1,0 +1,3 @@
+C:\Users\21401\Desktop\新建文件夹 (2)\Project17\x64\Debug\三子棋.exe
+C:\Users\21401\Desktop\新建文件夹 (2)\三子棋\x64\Debug\三子棋.exe
+C:\Users\21401\Desktop\新建文件夹 (2)\五子棋\x64\Debug\五子棋.exe

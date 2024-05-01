@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(三子棋.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
+C:\Users\21401\Desktop\新建文件夹 (2)\五子棋\game.h(1,1): warning C4828: 文件包含在偏移 0x363 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  game1.c
+C:\Users\21401\Desktop\新建文件夹 (2)\五子棋\game.h(1,1): warning C4828: 文件包含在偏移 0x363 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  text.c
+C:\Users\21401\Desktop\新建文件夹 (2)\五子棋\game.h(1,1): warning C4828: 文件包含在偏移 0x363 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码
+C:\Users\21401\Desktop\新建文件夹 (2)\五子棋\game1.c(100): warning C4715: “is_full1”: 不是所有的控件路径都返回值
+  11 of 24 functions (45.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project17.vcxproj -> C:\Users\21401\Desktop\新建文件夹 (2)\五子棋\x64\Release\五子棋.exe
